@@ -1,4 +1,4 @@
-# Book-Recommendation:
+# Book-Recommendation System:
 The main objective is to create a book recommendation system for users. Recommender systems are critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitor
 
 Methods Used
